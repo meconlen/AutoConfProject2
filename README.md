@@ -2,6 +2,12 @@
 
 This repository is a template used for autotools projects. It's designed around C and C++ projects but can be easily adapted. 
 
+# Dependencies 
+
+This depends on having standard autotools available. 
+
+The test program assumes you have Google Test. You can remove it easily. 
+
 # Building
 
 ```
