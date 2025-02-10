@@ -2,6 +2,8 @@
 
 This repository is a template used for autotools projects. It's designed around C and C++ projects and Google Test but can be easily adapted to other scenarios. 
 
+This repository has a github action to run the unit tests on commits to branches main and dev. 
+
 # Dependencies 
 
 This depends on having standard autotools available. 
