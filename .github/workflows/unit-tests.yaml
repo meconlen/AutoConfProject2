@@ -3,7 +3,7 @@ run-name: Unit Test Action
 on: 
   push:
     branches:
-      - master
+      - main
       - dev
 jobs:
   run-unit-test:
