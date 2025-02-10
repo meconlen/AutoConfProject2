@@ -16,6 +16,10 @@ autoreconf -vfi
 make check
 ```
 
+You should see a failed test. Write some tests and make them pass!
+
+## includes and libs 
+
 Recall if you need to add include and library paths
 
 ```
