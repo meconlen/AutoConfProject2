@@ -33,6 +33,8 @@ ltmain.sh
 missing
 stamp-h1
 test-driver
+config.h.in~
+configure~
 
 # vscode 
 .vscode
